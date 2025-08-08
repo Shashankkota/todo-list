@@ -82,11 +82,6 @@ Adjust credentials if you’ve set a custom MySQL password.
 * Interact with the task management interface.
 
 ---
-## 📸 Screenshots
-
-> *(Optional)* Add screenshots of UI, database, or console output.
-
----
 
 ## ✅ Future Enhancements
 
@@ -104,6 +99,4 @@ Adjust credentials if you’ve set a custom MySQL password.
 
 ---
 
----
 
-Let me know if your UI is Swing, JavaFX, or web-based (JSP/Servlet), I can tailor the README accordingly.
